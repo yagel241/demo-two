@@ -1,2 +1,5 @@
 # demo-two
-Repo for knoeing git
+
+Repo for knowing git
+
+So far so good
